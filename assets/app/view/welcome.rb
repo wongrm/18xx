@@ -39,7 +39,7 @@ module View
 
     def render_introduction
       message = <<~MESSAGE
-        <p>Check out the <a href='https://github.com/tobymao/18xx/wiki/FAQ'>FAQ</a>, <a href='https://github.com/tobymao/18xx/wiki/Power-User-Features'>keyboard shortcuts</a> and <a href='https://github.com/tobymao/18xx/wiki'>the Wiki</a></p>
+        <p>Hello Mr. JJB, check out the <a href='https://github.com/tobymao/18xx/wiki/FAQ'>FAQ</a>, <a href='https://github.com/tobymao/18xx/wiki/Power-User-Features'>keyboard shortcuts</a> and <a href='https://github.com/tobymao/18xx/wiki'>the Wiki</a></p>
         <p>Find games in the chat or <a href='https://github.com/tobymao/18xx/wiki/18xx-Online-Communities%2C-Media%2C-and-Resources#community'>on (unofficial) Discord servers</a></p>
         <p>Setup <a href='https://github.com/tobymao/18xx/wiki/Notifications'>turn notifications</a> via webhook to Slack, Discord, and Telegram</p>
         <p>Ask questions in <code>#18xxgames</code> <a href='https://join.slack.com/t/18xxgames/shared_invite/zt-27imtsj2u-vussFAqtecmACsycjdsIhg'>on the 18XX Slack</a></p>
