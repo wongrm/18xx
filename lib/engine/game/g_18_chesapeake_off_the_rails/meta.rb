@@ -16,9 +16,9 @@ module Engine
         GAME_INFO_URL = 'https://github.com/tobymao/18xx/wiki/18Chesapeake'
         GAME_PUBLISHER = :all_aboard_games
         GAME_RULES_URL = {
-          'Base 18Mag Rules' =>
+          'Base 18Chesapeake Rules' =>
           'https://cdn.shopify.com/s/files/1/0252/9371/7588/files/18Chesapeake.pdf?v=1597256917',
-          'Expansion Rules' =>
+          'Off the Rails Expansion Rules' =>
             'https://www.dropbox.com/s/ivm4jsopnzabhru/18ChesOTR_Rules.png?dl=0',
         }.freeze
         GAME_TITLE = '18Chesapeake: Off the Rails'
