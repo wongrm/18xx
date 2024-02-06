@@ -13,7 +13,7 @@ module Engine
         DEPENDS_ON = '18Chesapeake'
 
         GAME_DESIGNER = 'Scott Petersen'
-        GAME_INFO_URL = 'https://github.com/tobymao/18xx/wiki/18Chesapeake'
+        GAME_INFO_URL = 'https://github.com/tobymao/18xx/wiki/18Chesapeake%3A-Off-the-Rails'
         GAME_PUBLISHER = :all_aboard_games
         GAME_RULES_URL = {
           'Base 18Chesapeake Rules' =>
